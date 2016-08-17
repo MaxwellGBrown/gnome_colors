@@ -29,7 +29,7 @@ To see the affected settings, run...
 
 ::
 
-  $ gconftool-2 -R '/apps/gnome-terminal
+  $ gconftool-2 -R '/apps/gnome-terminal'
 
 
 =========
