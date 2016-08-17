@@ -2,7 +2,7 @@
 gnome_colors
 ============
 
-This is my gnome terminal settings, done particularly so I can move around my custom colorscheme easily.
+This is my gnome terminal settings, done particularly so I can move around my terminal profiles/color schemes easily.
 
 Export
 ------
